@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.lineNumbers": "on",
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [72,80,120],
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "telemetry.enableTelemetry": false,
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "window.openFilesInNewWindow": false,
+  "window.restoreFullscreen": true,
+  "window.zoomLevel": -0.75
+}
